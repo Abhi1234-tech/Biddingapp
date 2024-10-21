@@ -1,0 +1,31 @@
+
+.login-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.formlogin {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+
+input {
+    margin: 10px 0;
+    padding: 10px;
+    width: 300px;
+}
+
+button {
+    padding: 10px;
+    width: 150px;
+    background-color: rgb(10, 187, 210);
+}
+
+.error {
+    color: red;
+    margin-top: 10px;
+}
